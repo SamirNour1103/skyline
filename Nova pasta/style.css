@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 174, 255);
+}
+h1{
+    padding-left: 10px;
+    text-align: center;
+    font-size: 50pt;
+    vertical-align: middle;
+    font-family: "Ceviche One", serif;
+}
+img{
+    width: 20%;
+    display: inline-block;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+.class1{
+    color: aliceblue;
+display: inline-block;
+width: 300px;
+margin-left: 20px;
+margin-right: 50px;
+margin-top: 100px;
+}
